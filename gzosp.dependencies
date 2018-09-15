@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "GZOSP-Devices/device_huawei_berkeley",
+    "target_path": "device/huawei/berkeley",
+    "branch":      "9.0"
+  },
+   {
+    "repository":  "GZOSP-Devices/device_huawei_berkeley",
+    "target_path": "device/huawei/berkeley",
+    "branch":      "9.0"
+  },
+  {
+    "repository":  "BigTopKrazies/device_huawei_kirin970-common",
+    "target_path": "vendor/huawei/kirin970-common",
+    "branch":      "9.0"
+  }
+]
